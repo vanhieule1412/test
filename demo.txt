@@ -1,2 +1,6 @@
 123456
+
 cin>>a;
+
+cout<<"Hello world";
+
